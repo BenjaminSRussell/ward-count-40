@@ -253,3 +253,6 @@
 {"n":253,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair east escape. Nia keeps the plywood for the win. 4 steps, direct on the left lane, open."}
 {"n":254,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east escape. direct left open. 5 steps. The plywood stays for the win."}
 {"n":255,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at South stair. Nobody past the east escape. We win in 6 steps. Direct on the left lane, open."}
+{"n":256,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east escape. Ivo keeps the plywood for the win. 7 steps, direct on the left lane, open."}
+{"n":257,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. direct left open. 8 steps. The plywood stays for the win."}
+{"n":258,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at South stair. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
