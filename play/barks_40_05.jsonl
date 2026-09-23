@@ -336,3 +336,6 @@
 {"n":336,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the hydrant for the win. 5 steps, direct on the left lane, open."}
 {"n":337,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. direct left open. 6 steps. The hydrant stays for the win."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the Lot. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":339,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west escape. Bess keeps the hydrant for the win. 8 steps, direct on the left lane, open."}
+{"n":340,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. direct left open. 2 steps. The hydrant stays for the win."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the west escape. We win in 3 steps. Direct on the left lane, open."}
