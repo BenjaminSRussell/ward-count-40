@@ -577,3 +577,6 @@
 {"n":577,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light east escape. Nia keeps the barrel for the win. 6 steps, direct on the left lane, open."}
 {"n":578,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. direct left open. 7 steps. The barrel stays for the win."}
 {"n":579,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Last Light. Nobody past the east escape. We win in 8 steps. Direct on the left lane, open."}
+{"n":580,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the barrel for the win. 2 steps, direct on the left lane, open."}
+{"n":581,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. direct left open. 3 steps. The barrel stays for the win."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Last Light. Nobody past the east escape. We win in 4 steps. Direct on the left lane, open."}
