@@ -594,3 +594,6 @@
 {"n":594,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east court. direct left open. 2 steps. The awning stays for the win."}
 {"n":595,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at High line. Nobody past the east court. We win in 3 steps. Direct on the left lane, open."}
 {"n":596,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east court. Ivo keeps the awning for the win. 4 steps, direct on the left lane, open."}
+{"n":597,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. direct left open. 5 steps. The awning stays for the win."}
+{"n":598,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at High line. Nobody past the east court. We win in 6 steps. Direct on the left lane, open."}
+{"n":599,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east court. Bess keeps the awning for the win. 7 steps, direct on the left lane, open."}
