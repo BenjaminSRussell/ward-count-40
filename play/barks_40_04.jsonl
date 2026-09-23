@@ -337,3 +337,6 @@
 {"n":337,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south court. Nia keeps the shutter for the win. 7 steps, direct on the left lane, open."}
 {"n":338,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south court. direct left open. 8 steps. The shutter stays for the win."}
 {"n":339,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Stockyard fence. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
+{"n":340,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the shutter for the win. 3 steps, direct on the left lane, open."}
+{"n":341,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. direct left open. 4 steps. The shutter stays for the win."}
+{"n":342,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the south court. We win in 5 steps. Direct on the left lane, open."}
