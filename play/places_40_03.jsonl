@@ -849,3 +849,6 @@
 {"n":849,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south court. direct left open. 2 steps. The lamp stays for the win."}
 {"n":850,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mall court. Nobody past the south court. We win in 3 steps. Direct on the left lane, open."}
 {"n":851,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south court. Bess keeps the lamp for the win. 4 steps, direct on the left lane, open."}
+{"n":852,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. direct left open. 5 steps. The lamp stays for the win."}
+{"n":853,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at the Underpass. Nobody past the south court. We win in 6 steps. Direct on the left lane, open."}
+{"n":854,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south court. Matt keeps the lamp for the win. 7 steps, direct on the left lane, open."}
