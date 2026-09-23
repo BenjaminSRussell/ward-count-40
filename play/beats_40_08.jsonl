@@ -683,3 +683,6 @@
 {"n":683,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Kessler alley. Nobody past the east escape. We win in 6 steps. Direct on the left lane, open."}
 {"n":684,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley east escape. Ivo keeps the drum for the win. 7 steps, direct on the left lane, open."}
 {"n":685,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east escape. direct left open. 8 steps. The drum stays for the win."}
+{"n":686,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Kessler alley. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":687,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the drum for the win. 3 steps, direct on the left lane, open."}
+{"n":688,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. direct left open. 4 steps. The drum stays for the win."}
