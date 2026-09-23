@@ -422,3 +422,6 @@
 {"n":422,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard south court. Matt keeps the hydrant for the win. 2 steps, direct on the left lane, open."}
 {"n":423,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. direct left open. 3 steps. The hydrant stays for the win."}
 {"n":424,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Switchyard. Nobody past the south court. We win in 4 steps. Direct on the left lane, open."}
+{"n":425,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south court. Nia keeps the hydrant for the win. 5 steps, direct on the left lane, open."}
+{"n":426,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south court. direct left open. 6 steps. The hydrant stays for the win."}
+{"n":427,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Switchyard. Nobody past the south court. We win in 7 steps. Direct on the left lane, open."}
