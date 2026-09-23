@@ -941,3 +941,6 @@
 {"n":941,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock south court. Nia keeps the lamp for the win. 3 steps, direct on the left lane, open."}
 {"n":942,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. direct left open. 4 steps. The lamp stays for the win."}
 {"n":943,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Drydock. Nobody past the south court. We win in 5 steps. Direct on the left lane, open."}
+{"n":944,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south court. Ivo keeps the lamp for the win. 6 steps, direct on the left lane, open."}
+{"n":945,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. direct left open. 7 steps. The lamp stays for the win."}
+{"n":946,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Drydock. Nobody past the south court. We win in 8 steps. Direct on the left lane, open."}
