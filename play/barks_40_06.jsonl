@@ -746,3 +746,6 @@
 {"n":746,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair west escape. Matt keeps the drum for the win. 8 steps, direct on the left lane, open."}
 {"n":747,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west escape. direct left open. 2 steps. The drum stays for the win."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at South stair. Nobody past the west escape. We win in 3 steps. Direct on the left lane, open."}
+{"n":749,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair west escape. Nia keeps the drum for the win. 4 steps, direct on the left lane, open."}
+{"n":750,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west escape. direct left open. 5 steps. The drum stays for the win."}
+{"n":751,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at South stair. Nobody past the west escape. We win in 6 steps. Direct on the left lane, open."}
