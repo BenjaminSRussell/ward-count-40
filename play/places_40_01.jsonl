@@ -746,3 +746,6 @@
 {"n":746,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north court. direct left open. 6 steps. The crate stays for the win."}
 {"n":747,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Switchyard. Nobody past the north court. We win in 7 steps. Direct on the left lane, open."}
 {"n":748,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north court. Ivo keeps the crate for the win. 8 steps, direct on the left lane, open."}
+{"n":749,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. direct left open. 2 steps. The crate stays for the win."}
+{"n":750,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Switchyard. Nobody past the north court. We win in 3 steps. Direct on the left lane, open."}
+{"n":751,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north court. Bess keeps the crate for the win. 4 steps, direct on the left lane, open."}
