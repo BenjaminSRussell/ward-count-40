@@ -71,3 +71,6 @@
 {"n":71,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south court. direct left open. 7 steps. The rebar stays for the win."}
 {"n":72,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at the pier. Nobody past the south court. We win in 8 steps. Direct on the left lane, open."}
 {"n":73,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south court. Nia keeps the rebar for the win. 2 steps, direct on the left lane, open."}
+{"n":74,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south court. direct left open. 3 steps. The rebar stays for the win."}
+{"n":75,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the pier. Nobody past the south court. We win in 4 steps. Direct on the left lane, open."}
+{"n":76,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south court. Ivo keeps the rebar for the win. 5 steps, direct on the left lane, open."}
