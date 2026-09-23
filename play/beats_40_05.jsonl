@@ -611,3 +611,6 @@
 {"n":611,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Switchyard. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
 {"n":612,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the barrel for the win. 8 steps, direct on the left lane, open."}
 {"n":613,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. direct left open. 2 steps. The barrel stays for the win."}
+{"n":614,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Switchyard. Nobody past the west escape. We win in 3 steps. Direct on the left lane, open."}
+{"n":615,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west escape. Bess keeps the barrel for the win. 4 steps, direct on the left lane, open."}
+{"n":616,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. direct left open. 5 steps. The barrel stays for the win."}
