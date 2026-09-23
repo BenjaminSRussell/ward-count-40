@@ -71,3 +71,6 @@
 {"n":71,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at South stair. Nobody past the south court. We win in 6 steps. Direct on the left lane, open."}
 {"n":72,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south court. Ivo keeps the radio coil for the win. 7 steps, direct on the left lane, open."}
 {"n":73,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south court. direct left open. 8 steps. The radio coil stays for the win."}
+{"n":74,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at South stair. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
+{"n":75,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south court. Bess keeps the radio coil for the win. 3 steps, direct on the left lane, open."}
+{"n":76,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south court. direct left open. 4 steps. The radio coil stays for the win."}
