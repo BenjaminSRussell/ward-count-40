@@ -267,3 +267,6 @@
 {"n":267,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at the pier. Nobody past the east escape. We win in 4 steps. Direct on the left lane, open."}
 {"n":268,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east escape. Ivo keeps the plywood for the win. 5 steps, direct on the left lane, open."}
 {"n":269,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east escape. direct left open. 6 steps. The plywood stays for the win."}
+{"n":270,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the pier. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":271,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier east escape. Bess keeps the plywood for the win. 8 steps, direct on the left lane, open."}
+{"n":272,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. direct left open. 2 steps. The plywood stays for the win."}
