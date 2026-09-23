@@ -338,3 +338,6 @@
 {"n":338,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Ward gate. Nobody past the east escape. We win in 4 steps. Direct on the left lane, open."}
 {"n":339,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate east escape. Bess keeps the shutter for the win. 5 steps, direct on the left lane, open."}
 {"n":340,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east escape. direct left open. 6 steps. The shutter stays for the win."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Kessler alley. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":342,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley east escape. Matt keeps the shutter for the win. 8 steps, direct on the left lane, open."}
+{"n":343,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east escape. direct left open. 2 steps. The shutter stays for the win."}
