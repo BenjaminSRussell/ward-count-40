@@ -402,3 +402,6 @@
 {"n":402,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Mast yard. Nobody past the east escape. We win in 6 steps. Direct on the left lane, open."}
 {"n":403,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard east escape. Bess keeps the hydrant for the win. 7 steps, direct on the left lane, open."}
 {"n":404,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The hydrant stays for the win."}
+{"n":405,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Last Light. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":406,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east escape. Matt keeps the hydrant for the win. 3 steps, direct on the left lane, open."}
+{"n":407,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. direct left open. 4 steps. The hydrant stays for the win."}
