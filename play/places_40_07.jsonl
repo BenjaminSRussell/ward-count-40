@@ -209,3 +209,6 @@
 {"n":209,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east escape. direct left open. 2 steps. The plywood stays for the win."}
 {"n":210,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Mall court. Nobody past the east escape. We win in 3 steps. Direct on the left lane, open."}
 {"n":211,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east escape. Bess keeps the plywood for the win. 4 steps, direct on the left lane, open."}
+{"n":212,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east escape. direct left open. 5 steps. The plywood stays for the win."}
+{"n":213,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at the Underpass. Nobody past the east escape. We win in 6 steps. Direct on the left lane, open."}
+{"n":214,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east escape. Matt keeps the plywood for the win. 7 steps, direct on the left lane, open."}
