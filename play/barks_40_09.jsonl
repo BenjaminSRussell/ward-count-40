@@ -209,3 +209,6 @@
 {"n":209,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north escape. Nia keeps the plywood for the win. 7 steps, direct on the left lane, open."}
 {"n":210,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north escape. direct left open. 8 steps. The plywood stays for the win."}
 {"n":211,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Stockyard fence. Nobody past the north escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":212,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north escape. Ivo keeps the plywood for the win. 3 steps, direct on the left lane, open."}
+{"n":213,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. direct left open. 4 steps. The plywood stays for the win."}
+{"n":214,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the north escape. We win in 5 steps. Direct on the left lane, open."}
