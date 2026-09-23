@@ -40,3 +40,6 @@
 {"n":40,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. direct left open. 7 steps. The rebar stays for the win."}
 {"n":41,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Mall court. Nobody past the east escape. We win in 8 steps. Direct on the left lane, open."}
 {"n":42,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court east escape. Matt keeps the rebar for the win. 2 steps, direct on the left lane, open."}
+{"n":43,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east escape. direct left open. 3 steps. The rebar stays for the win."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Mall court. Nobody past the east escape. We win in 4 steps. Direct on the left lane, open."}
+{"n":45,"kind":"place","name":"Mall court east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court east escape. Nia keeps the rebar for the win. 5 steps, direct on the left lane, open."}
