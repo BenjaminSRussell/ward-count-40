@@ -361,3 +361,6 @@
 {"n":361,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the hydrant for the win. 7 steps, direct on the left lane, open."}
 {"n":362,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. direct left open. 8 steps. The hydrant stays for the win."}
 {"n":363,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":364,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the hydrant for the win. 3 steps, direct on the left lane, open."}
+{"n":365,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The hydrant stays for the win."}
+{"n":366,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east escape. We win in 5 steps. Direct on the left lane, open."}
