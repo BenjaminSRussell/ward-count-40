@@ -479,3 +479,6 @@
 {"n":479,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Ward gate. Nobody past the west escape. We win in 8 steps. Direct on the left lane, open."}
 {"n":480,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the barrel for the win. 2 steps, direct on the left lane, open."}
 {"n":481,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. direct left open. 3 steps. The barrel stays for the win."}
+{"n":482,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Ward gate. Nobody past the west escape. We win in 4 steps. Direct on the left lane, open."}
+{"n":483,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate west escape. Bess keeps the barrel for the win. 5 steps, direct on the left lane, open."}
+{"n":484,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west escape. direct left open. 6 steps. The barrel stays for the win."}
