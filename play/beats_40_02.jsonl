@@ -674,3 +674,6 @@
 {"n":674,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Mall court. Nobody past the north court. We win in 3 steps. Direct on the left lane, open."}
 {"n":675,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north court. Bess keeps the drum for the win. 4 steps, direct on the left lane, open."}
 {"n":676,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north court. direct left open. 5 steps. The drum stays for the win."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at the Underpass. Nobody past the north court. We win in 6 steps. Direct on the left lane, open."}
+{"n":678,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north court. Matt keeps the drum for the win. 7 steps, direct on the left lane, open."}
+{"n":679,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north court. direct left open. 8 steps. The drum stays for the win."}
