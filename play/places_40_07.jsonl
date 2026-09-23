@@ -2,3 +2,6 @@
 {"n":2,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west escape. direct left open. 5 steps. The radio coil stays for the win."}
 {"n":3,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Kessler alley. Nobody past the west escape. We win in 6 steps. Direct on the left lane, open."}
 {"n":4,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the radio coil for the win. 7 steps, direct on the left lane, open."}
+{"n":5,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. direct left open. 8 steps. The radio coil stays for the win."}
+{"n":6,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the west escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":7,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the radio coil for the win. 3 steps, direct on the left lane, open."}
