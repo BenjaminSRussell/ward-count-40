@@ -786,3 +786,6 @@
 {"n":786,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Ward gate. Nobody past the north court. We win in 4 steps. Direct on the left lane, open."}
 {"n":787,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north court. Bess keeps the lamp for the win. 5 steps, direct on the left lane, open."}
 {"n":788,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. direct left open. 6 steps. The lamp stays for the win."}
+{"n":789,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Kessler alley. Nobody past the north court. We win in 7 steps. Direct on the left lane, open."}
+{"n":790,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north court. Matt keeps the lamp for the win. 8 steps, direct on the left lane, open."}
+{"n":791,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north court. direct left open. 2 steps. The lamp stays for the win."}
