@@ -130,3 +130,6 @@
 {"n":130,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east escape. direct left open. 6 steps. The rebar stays for the win."}
 {"n":131,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Switchyard. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
 {"n":132,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east escape. Ivo keeps the rebar for the win. 8 steps, direct on the left lane, open."}
+{"n":133,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. direct left open. 2 steps. The rebar stays for the win."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Switchyard. Nobody past the east escape. We win in 3 steps. Direct on the left lane, open."}
+{"n":135,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east escape. Bess keeps the rebar for the win. 4 steps, direct on the left lane, open."}
