@@ -667,3 +667,6 @@
 {"n":667,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Stockyard fence. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
 {"n":668,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the crate for the win. 3 steps, direct on the left lane, open."}
 {"n":669,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. direct left open. 4 steps. The crate stays for the win."}
+{"n":670,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south court. We win in 5 steps. Direct on the left lane, open."}
+{"n":671,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence south court. Bess keeps the crate for the win. 6 steps, direct on the left lane, open."}
+{"n":672,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south court. direct left open. 7 steps. The crate stays for the win."}
