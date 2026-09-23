@@ -909,3 +909,6 @@
 {"n":909,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south court. direct left open. 6 steps. The lamp stays for the win."}
 {"n":910,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at the pier. Nobody past the south court. We win in 7 steps. Direct on the left lane, open."}
 {"n":911,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south court. Bess keeps the lamp for the win. 8 steps, direct on the left lane, open."}
+{"n":912,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south court. direct left open. 2 steps. The lamp stays for the win."}
+{"n":913,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Clinic roof. Nobody past the south court. We win in 3 steps. Direct on the left lane, open."}
+{"n":914,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof south court. Matt keeps the lamp for the win. 4 steps, direct on the left lane, open."}
