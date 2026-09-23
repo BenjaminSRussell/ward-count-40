@@ -690,3 +690,6 @@
 {"n":690,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the Lot. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
 {"n":691,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east escape. Bess keeps the crate for the win. 8 steps, direct on the left lane, open."}
 {"n":692,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. direct left open. 2 steps. The crate stays for the win."}
+{"n":693,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Stockyard fence. Nobody past the east escape. We win in 3 steps. Direct on the left lane, open."}
+{"n":694,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east escape. Matt keeps the crate for the win. 4 steps, direct on the left lane, open."}
+{"n":695,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east escape. direct left open. 5 steps. The crate stays for the win."}
