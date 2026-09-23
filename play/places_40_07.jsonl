@@ -194,3 +194,6 @@
 {"n":194,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. direct left open. 8 steps. The plywood stays for the win."}
 {"n":195,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Stockyard fence. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
 {"n":196,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the plywood for the win. 3 steps, direct on the left lane, open."}
+{"n":197,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The plywood stays for the win."}
+{"n":198,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the east escape. We win in 5 steps. Direct on the left lane, open."}
+{"n":199,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the plywood for the win. 6 steps, direct on the left lane, open."}
