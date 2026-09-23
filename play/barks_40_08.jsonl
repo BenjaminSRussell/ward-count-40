@@ -705,3 +705,6 @@
 {"n":705,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the drum for the win. 7 steps, direct on the left lane, open."}
 {"n":706,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. direct left open. 8 steps. The drum stays for the win."}
 {"n":707,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Stockyard fence. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":708,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the drum for the win. 3 steps, direct on the left lane, open."}
+{"n":709,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The drum stays for the win."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Stockyard fence. Nobody past the east escape. We win in 5 steps. Direct on the left lane, open."}
