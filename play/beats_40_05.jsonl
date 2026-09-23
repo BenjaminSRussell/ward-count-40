@@ -167,3 +167,6 @@
 {"n":167,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at the Lot. Nobody past the west escape. We win in 4 steps. Direct on the left lane, open."}
 {"n":168,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the plywood for the win. 5 steps, direct on the left lane, open."}
 {"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. direct left open. 6 steps. The plywood stays for the win."}
+{"n":170,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at the Lot. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":171,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west escape. Bess keeps the plywood for the win. 8 steps, direct on the left lane, open."}
+{"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. direct left open. 2 steps. The plywood stays for the win."}
