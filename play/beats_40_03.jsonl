@@ -202,3 +202,6 @@
 {"n":202,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Mast yard. Nobody past the south court. We win in 6 steps. Direct on the left lane, open."}
 {"n":203,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south court. Bess keeps the plywood for the win. 7 steps, direct on the left lane, open."}
 {"n":204,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. direct left open. 8 steps. The plywood stays for the win."}
+{"n":205,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Last Light. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
+{"n":206,"kind":"place","name":"Last Light south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south court. Matt keeps the plywood for the win. 3 steps, direct on the left lane, open."}
+{"n":207,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south court. direct left open. 4 steps. The plywood stays for the win."}
