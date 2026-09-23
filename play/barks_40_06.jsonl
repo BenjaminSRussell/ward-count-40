@@ -596,3 +596,6 @@
 {"n":596,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier west escape. Ivo keeps the awning for the win. 5 steps, direct on the left lane, open."}
 {"n":597,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west escape. direct left open. 6 steps. The awning stays for the win."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the pier. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":599,"kind":"place","name":"the pier west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west escape. Bess keeps the awning for the win. 8 steps, direct on the left lane, open."}
+{"n":600,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west escape. direct left open. 2 steps. The awning stays for the win."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Clinic roof. Nobody past the west escape. We win in 3 steps. Direct on the left lane, open."}
