@@ -511,3 +511,6 @@
 {"n":511,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at the Lot. Nobody past the west escape. We win in 4 steps. Direct on the left lane, open."}
 {"n":512,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the awning for the win. 5 steps, direct on the left lane, open."}
 {"n":513,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. direct left open. 6 steps. The awning stays for the win."}
+{"n":514,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the Lot. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":515,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west escape. Bess keeps the awning for the win. 8 steps, direct on the left lane, open."}
+{"n":516,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west escape. direct left open. 2 steps. The awning stays for the win."}
