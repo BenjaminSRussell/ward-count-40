@@ -451,3 +451,6 @@
 {"n":451,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west escape. direct left open. 8 steps. The hydrant stays for the win."}
 {"n":452,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Drydock. Nobody past the west escape. We win in 2 steps. Direct on the left lane, open."}
 {"n":453,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west escape. Nia keeps the hydrant for the win. 3 steps, direct on the left lane, open."}
+{"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west escape. direct left open. 4 steps. The hydrant stays for the win."}
+{"n":455,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Drydock. Nobody past the west escape. We win in 5 steps. Direct on the left lane, open."}
+{"n":456,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west escape. Ivo keeps the hydrant for the win. 6 steps, direct on the left lane, open."}
