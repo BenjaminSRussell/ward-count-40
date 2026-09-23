@@ -883,3 +883,6 @@
 {"n":883,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Last Light. Nobody past the south court. We win in 8 steps. Direct on the left lane, open."}
 {"n":884,"kind":"place","name":"Last Light south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light south court. Ivo keeps the lamp for the win. 2 steps, direct on the left lane, open."}
 {"n":885,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south court. direct left open. 3 steps. The lamp stays for the win."}
+{"n":886,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Last Light. Nobody past the south court. We win in 4 steps. Direct on the left lane, open."}
+{"n":887,"kind":"place","name":"Last Light south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light south court. Bess keeps the lamp for the win. 5 steps, direct on the left lane, open."}
+{"n":888,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south court. direct left open. 6 steps. The lamp stays for the win."}
