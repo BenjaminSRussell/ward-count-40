@@ -334,3 +334,6 @@
 {"n":334,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the north escape. We win in 6 steps. Direct on the left lane, open."}
 {"n":335,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north escape. Bess keeps the plywood for the win. 7 steps, direct on the left lane, open."}
 {"n":336,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The plywood stays for the win."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":338,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north escape. Matt keeps the hydrant for the win. 3 steps, direct on the left lane, open."}
+{"n":339,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. direct left open. 4 steps. The hydrant stays for the win."}
