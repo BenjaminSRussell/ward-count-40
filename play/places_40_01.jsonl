@@ -494,3 +494,6 @@
 {"n":494,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north court. direct left open. 6 steps. The barrel stays for the win."}
 {"n":495,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Mall court. Nobody past the north court. We win in 7 steps. Direct on the left lane, open."}
 {"n":496,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north court. Ivo keeps the barrel for the win. 8 steps, direct on the left lane, open."}
+{"n":497,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north court. direct left open. 2 steps. The barrel stays for the win."}
+{"n":498,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mall court. Nobody past the north court. We win in 3 steps. Direct on the left lane, open."}
+{"n":499,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north court. Bess keeps the barrel for the win. 4 steps, direct on the left lane, open."}
