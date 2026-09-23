@@ -295,3 +295,6 @@
 {"n":295,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. direct left open. 6 steps. The plywood stays for the win."}
 {"n":296,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at High line. Nobody past the west escape. We win in 7 steps. Direct on the left lane, open."}
 {"n":297,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line west escape. Nia keeps the plywood for the win. 8 steps, direct on the left lane, open."}
+{"n":298,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. direct left open. 2 steps. The plywood stays for the win."}
+{"n":299,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at High line. Nobody past the west escape. We win in 3 steps. Direct on the left lane, open."}
+{"n":300,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west escape. Ivo keeps the plywood for the win. 4 steps, direct on the left lane, open."}
