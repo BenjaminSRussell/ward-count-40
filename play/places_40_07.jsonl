@@ -245,3 +245,6 @@
 {"n":245,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. direct left open. 3 steps. The plywood stays for the win."}
 {"n":246,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Last Light. Nobody past the east escape. We win in 4 steps. Direct on the left lane, open."}
 {"n":247,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light east escape. Bess keeps the plywood for the win. 5 steps, direct on the left lane, open."}
+{"n":248,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. direct left open. 6 steps. The plywood stays for the win."}
+{"n":249,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at South stair. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":250,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair east escape. Matt keeps the plywood for the win. 8 steps, direct on the left lane, open."}
