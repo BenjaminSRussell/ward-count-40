@@ -263,3 +263,6 @@
 {"n":263,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south court. Bess keeps the plywood for the win. 4 steps, direct on the left lane, open."}
 {"n":264,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. direct left open. 5 steps. The plywood stays for the win."}
 {"n":265,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Drydock. Nobody past the south court. We win in 6 steps. Direct on the left lane, open."}
+{"n":266,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south court. Matt keeps the plywood for the win. 7 steps, direct on the left lane, open."}
+{"n":267,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south court. direct left open. 8 steps. The plywood stays for the win."}
+{"n":268,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Drydock. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
