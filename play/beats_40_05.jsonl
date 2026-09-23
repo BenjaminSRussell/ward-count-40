@@ -218,3 +218,6 @@
 {"n":218,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Mast yard. Nobody past the west escape. We win in 6 steps. Direct on the left lane, open."}
 {"n":219,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west escape. Bess keeps the plywood for the win. 7 steps, direct on the left lane, open."}
 {"n":220,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. direct left open. 8 steps. The plywood stays for the win."}
+{"n":221,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Last Light. Nobody past the west escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":222,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west escape. Matt keeps the plywood for the win. 3 steps, direct on the left lane, open."}
+{"n":223,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. direct left open. 4 steps. The plywood stays for the win."}
