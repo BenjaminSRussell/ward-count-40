@@ -721,3 +721,6 @@
 {"n":721,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier north court. Nia keeps the crate for the win. 2 steps, direct on the left lane, open."}
 {"n":722,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north court. direct left open. 3 steps. The crate stays for the win."}
 {"n":723,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the pier. Nobody past the north court. We win in 4 steps. Direct on the left lane, open."}
+{"n":724,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north court. Ivo keeps the crate for the win. 5 steps, direct on the left lane, open."}
+{"n":725,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. direct left open. 6 steps. The crate stays for the win."}
+{"n":726,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the pier. Nobody past the north court. We win in 7 steps. Direct on the left lane, open."}
