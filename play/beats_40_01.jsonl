@@ -522,3 +522,6 @@
 {"n":522,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the north court. We win in 6 steps. Direct on the left lane, open."}
 {"n":523,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north court. Bess keeps the barrel for the win. 7 steps, direct on the left lane, open."}
 {"n":524,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. direct left open. 8 steps. The barrel stays for the win."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Last Light. Nobody past the north court. We win in 2 steps. Direct on the left lane, open."}
+{"n":526,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north court. Matt keeps the barrel for the win. 3 steps, direct on the left lane, open."}
+{"n":527,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. direct left open. 4 steps. The barrel stays for the win."}
