@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Drydock. Nobody past the south court. We win in 5 steps. Direct on the left lane, open."}
 {"n":120,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock south court. Ivo keeps the radio coil for the win. 6 steps, direct on the left lane, open."}
 {"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. direct left open. 7 steps. The radio coil stays for the win."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Drydock. Nobody past the south court. We win in 8 steps. Direct on the left lane, open."}
+{"n":123,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock south court. Bess keeps the radio coil for the win. 2 steps, direct on the left lane, open."}
+{"n":124,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. direct left open. 3 steps. The radio coil stays for the win."}
