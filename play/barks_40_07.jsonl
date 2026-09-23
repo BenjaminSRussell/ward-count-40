@@ -436,3 +436,6 @@
 {"n":436,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east escape. Ivo keeps the hydrant for the win. 5 steps, direct on the left lane, open."}
 {"n":437,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east escape. direct left open. 6 steps. The hydrant stays for the win."}
 {"n":438,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at the pier. Nobody past the east escape. We win in 7 steps. Direct on the left lane, open."}
+{"n":439,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east escape. Bess keeps the hydrant for the win. 8 steps, direct on the left lane, open."}
+{"n":440,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. direct left open. 2 steps. The hydrant stays for the win."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the east escape. We win in 3 steps. Direct on the left lane, open."}
