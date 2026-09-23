@@ -874,3 +874,6 @@
 {"n":874,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mast yard. Nobody past the south court. We win in 6 steps. Direct on the left lane, open."}
 {"n":875,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south court. Bess keeps the lamp for the win. 7 steps, direct on the left lane, open."}
 {"n":876,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. direct left open. 8 steps. The lamp stays for the win."}
+{"n":877,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Last Light. Nobody past the south court. We win in 2 steps. Direct on the left lane, open."}
+{"n":878,"kind":"place","name":"Last Light south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light south court. Matt keeps the lamp for the win. 3 steps, direct on the left lane, open."}
+{"n":879,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south court. direct left open. 4 steps. The lamp stays for the win."}
