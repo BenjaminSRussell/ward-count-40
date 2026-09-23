@@ -33,3 +33,6 @@
 {"n":33,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the rebar for the win. 7 steps, direct on the left lane, open."}
 {"n":34,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. direct left open. 8 steps. The rebar stays for the win."}
 {"n":35,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Stockyard fence. Nobody past the east escape. We win in 2 steps. Direct on the left lane, open."}
+{"n":36,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the rebar for the win. 3 steps, direct on the left lane, open."}
+{"n":37,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The rebar stays for the win."}
+{"n":38,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the east escape. We win in 5 steps. Direct on the left lane, open."}
